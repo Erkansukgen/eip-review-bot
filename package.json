@@ -42,7 +42,7 @@
     "tr46": "^4.1.1",
     "ts-jest": "^29.0.5",
     "tunnel": "^0.0.6",
-    "typescript": "^5.0.2",
+    "typescript": "^5.7.2",
     "wrappy": "^1.0.2",
     "yaml": "^2.2.1",
     "nodegit": "^0.27.0"
